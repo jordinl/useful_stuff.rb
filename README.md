@@ -1,5 +1,5 @@
 # useful_stuff.rb
-Useful Ruby stuff
+Useful Ruby stuff that doesn't deserve its own gem.
 
 ## [Convert an array of hashes to CSV](array_of_hashes.rb)
 
